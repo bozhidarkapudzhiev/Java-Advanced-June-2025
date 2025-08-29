@@ -1,8 +1,7 @@
-package Example.Stack;
+package Stack.Example;
 
 import java.util.ArrayDeque;
 import java.util.Scanner;
-import java.util.SortedMap;
 
 public class _2_ReversedString {
     public static void main(String[] args) {
